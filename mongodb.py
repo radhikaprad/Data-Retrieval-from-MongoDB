@@ -8,12 +8,12 @@ import pandas as pd
 
 
 def join_funtion():
-    country_file="d:/Country.csv"
-    match_file="d:/Match_results.csv"
-    players_file="d:/Players.csv"
-    players_goals="d:/Player_Assists_Goals.csv"
-    player_cards="d:/Player_Cards.csv"
-    world_cup="d:/WorldCup_History.csv"
+    country_file="Country.csv"
+    match_file="Match_results.csv"
+    players_file="Players.csv"
+    players_goals="Player_Assists_Goals.csv"
+    player_cards="Player_Cards.csv"
+    world_cup="WorldCup_History.csv"
 
 
     countries = dict()
